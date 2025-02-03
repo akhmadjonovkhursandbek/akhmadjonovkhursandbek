@@ -6,7 +6,7 @@
 
 - 🌱 Proficient in front-end technologies like React, Angular, and Vue.js, as well as back-end technologies like Node.js, Python, and PHP
 
-- 🔭 I’m currently working on food delivery server [Burak]((https://github.com/akhmadjonovkhursandbek/burak-react))
+- 🔭 I’m currently working on food delivery server [Burak]([Buraks.com])
 
 - 🌱 I’m currently learning **MIT Full-Stack on devex.uz**
 
