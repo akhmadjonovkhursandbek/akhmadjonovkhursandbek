@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Khursandbek Akhmadjonov (ADAM) </h1>
+<h1 align="center">Hi 👋, I'm ADAM </h1>
 <h3 align="center">A passionate Full-Stack Developer from Uzbekistan</h3>
 <div>
   
