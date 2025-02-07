@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on food delivery server [Burak]([Buraks.com])
 
-- 🌱 I’m currently learning **MIT Full-Stack on devex.uz**
+- 🌱 I’m currently learning **MIT Full-Stack on Devex.uz**
 
 - 👯 I’m looking to collaborate on **backend projects**
 
