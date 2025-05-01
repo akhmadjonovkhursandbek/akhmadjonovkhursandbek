@@ -6,7 +6,7 @@
 
 - 🌱 Proficient in front-end technologies like React, Angular, and Vue.js, as well as back-end technologies like Node.js, Python, and PHP
 
-- 🔭 I’m currently working on food delivery server [Cafeteria]([https://github.com/akhmadjonovkhursandbek/Cafeteria])
+- 🔭 I’m currently working on food delivery server [Cafeteria]([Cafeteria.com])
 
 - 🌱 I’m currently learning **MIT Full-Stack on Devex.uz**
 
